@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://t.me/Half_Intelligent_2",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "logo": "https://telegra.ph/file/f6e976fd853522c4dcb5e.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
